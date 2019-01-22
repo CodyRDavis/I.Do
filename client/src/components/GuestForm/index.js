@@ -56,7 +56,6 @@ function GuestForm (props) {
                 placeholder="Zipcode(required)"
             />
             <Button id="guestInfoFormButton"
-                disabled={!(props.state.firstName && props.state.email)}
                 onClick={props.handleFormSubmit}
             >
                 Submit
