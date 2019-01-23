@@ -64,6 +64,7 @@ body {
 .btn-success {
     font-size: 15px;
     font-weight: bold;
+    border: 0;
 }
 /* ------------------------------------------ANIMATIONS AND STATE CHANGES */
 body, #title, .bar1, .bar2, .bar3, .circle-picker-container, .panel-default, .form-control, .buttonBox, .btn-success {
